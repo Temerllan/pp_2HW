@@ -1,0 +1,32 @@
+Hello, World!
+Five is greater than two!
+Hello, World!
+
+5
+John
+Sally
+
+myvar = "John"     John
+my_var = "John"   John
+my_var = "John"   John
+myVar = "John"    John
+MYVAR = "John"   John
+
+
+
+x, y, z = "Orange", "Banana", "Cherry*"*
+
+print(x)        orange
+print(y)        banana
+print(z)        cherry
+
+
+
+x = "Python is awesome"       Python is awesome
+print(x)
+
+
+
+x = 5
+y = 10
+print(x + y)       15
